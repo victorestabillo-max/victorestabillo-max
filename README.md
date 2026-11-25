@@ -7,13 +7,10 @@
 🌟 About Me
 
 Hello! I'm Victor Estabillo, an IT student at National University – Clark.
-
 I'm still learning and exploring the world of programming. Coding isn't always easy for me, but I'm willing to learn, improve, and challenge myself every day.
-
 I believe that my strength is solving problems and finding effective solutions. I prefer creating long-term solutions rather than temporary fixes.
 
 🎯 Areas of Interest
-👨‍💻 Software Engineering & Systems Design
 🎮 Game Development (Roblox, Call of Duty Mobile)
 💡 Problem Solving
 🖥️ Exploring New Technologies
